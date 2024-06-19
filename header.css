@@ -1,0 +1,29 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 0 10px 0;
+  border-bottom: 1px solid rgb(0, 0, 0, 0.1);
+}
+
+.head_Text {
+  margin-left: 30px;
+  font-weight: bold;
+}
+
+.head_bar {
+  width: 15px;
+  margin: 0 10px 0 0;
+}
+
+.head_icon {
+  display: flex;
+  align-items: center;
+  width: 20px;
+  padding-right: 10px;
+  margin-right: 30px;
+}
+
+.head_icon img {
+  margin: 3px;
+}
